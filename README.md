@@ -10,6 +10,8 @@ Este repositorio contiene toda la documentación y scripts relacionados con el p
 - Escenarios BDD
 - Implementación de pruebas automatizadas con Playwright + Screenplay
 
+  # Documentación detallada sobre los puntos del 1 al 3 [Pruebas Manuales](https://drive.google.com/file/d/1mibWxpiqj6bJegFFmjYO6g30tjyt4012/view?usp=sharing)
+
 ---
 
 ## Tabla de Contenidos
@@ -18,8 +20,8 @@ Este repositorio contiene toda la documentación y scripts relacionados con el p
 - [Historia de Usuario y Criterios de Aceptación](#historia-de-usuario-y-criterios-de-aceptación)
 - [Técnicas de Prueba Aplicadas](#técnicas-de-prueba-aplicadas)
 - [Ejemplo de Llamado al Servicio](#ejemplo-de-llamado-al-servicio)
-- [Pruebas Manuales]((#https://drive.google.com/file/d/1mibWxpiqj6bJegFFmjYO6g30tjyt4012/view?usp=sharing))
-- [Escenarios BDD en Gherkin](#https://drive.google.com/file/d/1mibWxpiqj6bJegFFmjYO6g30tjyt4012/view?usp=sharing)
+- [Pruebas Manuales](https://drive.google.com/file/d/1mibWxpiqj6bJegFFmjYO6g30tjyt4012/view?usp=sharing)
+- [Escenarios BDD en Gherkin](https://drive.google.com/file/d/1mibWxpiqj6bJegFFmjYO6g30tjyt4012/view?usp=sharing)
 - [Pruebas Funcionales Automatizadas con Playwright y Screenplay](#pruebas-funcionales-automatizadas-con-playwright-y-screenplay)
 
 ---
