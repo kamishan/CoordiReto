@@ -18,8 +18,8 @@ Este repositorio contiene toda la documentación y scripts relacionados con el p
 - [Historia de Usuario y Criterios de Aceptación](#historia-de-usuario-y-criterios-de-aceptación)
 - [Técnicas de Prueba Aplicadas](#técnicas-de-prueba-aplicadas)
 - [Ejemplo de Llamado al Servicio](#ejemplo-de-llamado-al-servicio)
-- [Pruebas Manuales](#pruebas-manuales)
-- [Escenarios BDD en Gherkin](#escenarios-bdd-en-gherkin)
+- [Pruebas Manuales]((#https://drive.google.com/file/d/1mibWxpiqj6bJegFFmjYO6g30tjyt4012/view?usp=sharing))
+- [Escenarios BDD en Gherkin](#https://drive.google.com/file/d/1mibWxpiqj6bJegFFmjYO6g30tjyt4012/view?usp=sharing)
 - [Pruebas Funcionales Automatizadas con Playwright y Screenplay](#pruebas-funcionales-automatizadas-con-playwright-y-screenplay)
 
 ---
